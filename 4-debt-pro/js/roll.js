@@ -36,8 +36,7 @@ var scrollPic_xc = new ScrollPicleft();
 	
 	
 	
-	    new Marquee("Question", 0, 1, 310, 400, 40, 0, 1000, 22);
-		
+
 		
 		
 		
